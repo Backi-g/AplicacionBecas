@@ -90,3 +90,11 @@ R:\Horus\GitHub\AplicacionBecas\AplicacionBecas\AplicacionGestionBecas\obj\Debug
 R:\Horus\GitHub\AplicacionBecas\AplicacionBecas\AplicacionGestionBecas\obj\Debug\AplicacionGestionBecas.UctrlModificarUsuario.resources
 R:\Horus\GitHub\AplicacionBecas\AplicacionBecas\AplicacionGestionBecas\obj\Debug\AplicacionGestionBecas.uCtrlRegistrarBeneficio.resources
 R:\Horus\GitHub\AplicacionBecas\AplicacionBecas\AplicacionGestionBecas\obj\Debug\UI.vbproj.GenerateResource.Cache
+C:\Users\backi_000\Desktop\AplicacionBecas\AplicacionBecas\AplicacionGestionBecas\bin\Debug\AplicacionGestionBecas.exe.config
+C:\Users\backi_000\Desktop\AplicacionBecas\AplicacionBecas\AplicacionGestionBecas\obj\Debug\AplicacionGestionBecas.exe
+C:\Users\backi_000\Desktop\AplicacionBecas\AplicacionBecas\AplicacionGestionBecas\obj\Debug\AplicacionGestionBecas.xml
+C:\Users\backi_000\Desktop\AplicacionBecas\AplicacionBecas\AplicacionGestionBecas\obj\Debug\AplicacionGestionBecas.pdb
+C:\Users\backi_000\Documents\GitHub\AplicacionBecas\AplicacionBecas\AplicacionGestionBecas\bin\Debug\AplicacionGestionBecas.exe.config
+C:\Users\backi_000\Documents\GitHub\AplicacionBecas\AplicacionBecas\AplicacionGestionBecas\obj\Debug\AplicacionGestionBecas.exe
+C:\Users\backi_000\Documents\GitHub\AplicacionBecas\AplicacionBecas\AplicacionGestionBecas\obj\Debug\AplicacionGestionBecas.xml
+C:\Users\backi_000\Documents\GitHub\AplicacionBecas\AplicacionBecas\AplicacionGestionBecas\obj\Debug\AplicacionGestionBecas.pdb
